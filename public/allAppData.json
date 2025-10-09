@@ -1,0 +1,362 @@
+[
+  {
+    "image": "/assets/images/app-focusflow.png",
+    "title": "FocusFlow",
+    "companyName": "Productivity Labs",
+    "id": 101,
+    "description": "A minimalist Pomodoro timer and task manager designed for deep work sessions and distraction-free focus.",
+    "size": 45,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-gastronomy.png",
+    "title": "Gastronomy Guide",
+    "companyName": "Culinary Tech Inc.",
+    "id": 102,
+    "description": "Discover local, hidden gem restaurants, view menus, and book reservations instantly.",
+    "size": 120,
+    "reviews": 22400,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 8100 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-starhopper.png",
+    "title": "Star Hopper",
+    "companyName": "Galaxy Games Studio",
+    "id": 103,
+    "description": "An addictive arcade game where you pilot a spaceship through asteroid fields to collect stardust.",
+    "size": 350,
+    "reviews": 89000,
+    "ratingAvg": 4.2,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 5500 },
+      { "name": "2 star", "count": 7500 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 28500 },
+      { "name": "5 star", "count": 32500 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-fitlog.png",
+    "title": "FitLog Pro",
+    "companyName": "Wellness Solutions",
+    "id": 104,
+    "description": "Your ultimate workout tracker, providing personalized routines, progress charts, and macro tracking.",
+    "size": 95,
+    "reviews": 56000,
+    "ratingAvg": 4.8,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 31500 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-cryptowatch.png",
+    "title": "Crypto Watch",
+    "companyName": "Financial Data Systems",
+    "id": 105,
+    "description": "Real-time cryptocurrency price tracking, portfolio management, and news aggregation.",
+    "size": 80,
+    "reviews": 41200,
+    "ratingAvg": 4.1,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-ecoview.png",
+    "title": "EcoView",
+    "companyName": "Green Planet Apps",
+    "id": 106,
+    "description": "Monitor your household's energy usage and find tips for a more sustainable, eco-friendly lifestyle.",
+    "size": 55,
+    "reviews": 9800,
+    "ratingAvg": 4.4,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-cloudnotes.png",
+    "title": "CloudNotes",
+    "companyName": "Digital Workspace",
+    "id": 107,
+    "description": "A simple, fast note-taking app with instant cloud synchronization across all your devices.",
+    "size": 30,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 86000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-riddlemaster.png",
+    "title": "Riddle Master",
+    "companyName": "Brain Teaser Games",
+    "id": 108,
+    "description": "Test your logic and wit with hundreds of challenging riddles and brain puzzles.",
+    "size": 75,
+    "reviews": 35000,
+    "ratingAvg": 3.9,
+    "downloads": 3100000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-travelmate.png",
+    "title": "Travel Mate",
+    "companyName": "Voyage Apps Co.",
+    "id": 109,
+    "description": "A comprehensive trip planner with itinerary management, budget tracking, and offline maps.",
+    "size": 180,
+    "reviews": 65000,
+    "ratingAvg": 4.9,
+    "downloads": 7500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 15500 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-designsphere.png",
+    "title": "Design Sphere",
+    "companyName": "Creative Tools Group",
+    "id": 110,
+    "description": "Intuitive mobile design software for creating social media graphics and quick photo edits.",
+    "size": 250,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": 920000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-languagescribe.png",
+    "title": "Language Scribe",
+    "companyName": "Global EdTech",
+    "id": 111,
+    "description": "An AI-powered language exchange app connecting you with native speakers worldwide for live practice.",
+    "size": 110,
+    "reviews": 32000,
+    "ratingAvg": 4.5,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-budgetwise.png",
+    "title": "BudgetWise",
+    "companyName": "FinTech Pioneers",
+    "id": 112,
+    "description": "Personal finance manager that automatically tracks spending and helps you stick to your monthly budget goals.",
+    "size": 60,
+    "reviews": 75000,
+    "ratingAvg": 4.7,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-dreamcatcher.png",
+    "title": "Dream Catcher",
+    "companyName": "Sleep Science Labs",
+    "id": 113,
+    "description": "Records and analyzes your sleep cycles, offering personalized insights and soothing soundscapes.",
+    "size": 140,
+    "reviews": 51000,
+    "ratingAvg": 4.6,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-realtyview.png",
+    "title": "RealtyView",
+    "companyName": "Property Solutions",
+    "id": 114,
+    "description": "Find, list, and tour properties using augmented reality (AR) walkthroughs and real-time market data.",
+    "size": 220,
+    "reviews": 11000,
+    "ratingAvg": 4.0,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-weatherpulse.png",
+    "title": "Weather Pulse",
+    "companyName": "Atmosphere Tech",
+    "id": 115,
+    "description": "Hyper-local weather forecasts with radar, alerts, and detailed hourly predictions.",
+    "size": 70,
+    "reviews": 180000,
+    "ratingAvg": 4.8,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 110000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-pixeledit.png",
+    "title": "PixelEdit",
+    "companyName": "Image Creators LLC",
+    "id": 116,
+    "description": "Professional photo editor with layers, filters, and advanced retouching tools for mobile devices.",
+    "size": 190,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 17500 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-medi-reminder.png",
+    "title": "Medi Reminder",
+    "companyName": "Health Guardian",
+    "id": 117,
+    "description": "A reliable medication reminder and tracker app that ensures you never miss a dose.",
+    "size": 40,
+    "reviews": 28000,
+    "ratingAvg": 4.9,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-code-snippet.png",
+    "title": "Code Snippet Hub",
+    "companyName": "Developer Tools Inc.",
+    "id": 118,
+    "description": "Store, organize, and share code snippets with syntax highlighting for over 50 programming languages.",
+    "size": 50,
+    "reviews": 19000,
+    "ratingAvg": 4.7,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-space-explorer.png",
+    "title": "Space Explorer",
+    "companyName": "Cosmic View VR",
+    "id": 119,
+    "description": "An educational VR app that lets you tour the solar system and learn about planets and galaxies.",
+    "size": 580,
+    "reviews": 15000,
+    "ratingAvg": 4.5,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "/assets/images/app-recipe-book.png",
+    "title": "Recipe Book Pro",
+    "companyName": "Kitchen Masters",
+    "id": 120,
+    "description": "Digital cookbook with thousands of recipes, meal planning features, and a grocery list generator.",
+    "size": 135,
+    "reviews": 95000,
+    "ratingAvg": 4.6,
+    "downloads": 11500000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 43500 }
+    ]
+  }
+]
