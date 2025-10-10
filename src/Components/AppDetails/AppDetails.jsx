@@ -5,6 +5,7 @@ import download from '../../assets/icon-downloads.png';
 import rating from '../../assets/icon-ratings.png';
 import review from '../../assets/icon-review.png';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { addToStore } from '../InstalledApps/installedApp';
 
 const AppDetails = () => {
     const { id } = useParams();
@@ -27,6 +28,10 @@ const AppDetails = () => {
         }
         return num.toString();
     };
+
+    const handleInstall = (id) => {
+        addToStore(id)
+    }
 
     return (
         <div className='p-20 bg-[#D2D2D250]'>
@@ -62,7 +67,7 @@ const AppDetails = () => {
                         </div>
                     </div>
 
-                    <button className='btn px-5 py-[22px] bg-green-400 text-white mt-8 text-xl'>
+                    <button onClick={() => handleInstall(singleData.id)} className='btn px-5 py-[22px] bg-green-400 text-white mt-8 text-xl'>
                         Install Now ({singleData.size}MB)
                     </button>
                 </div>
